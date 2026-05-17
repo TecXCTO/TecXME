@@ -1,0 +1,19 @@
+# CAD backup and lock files
+~$*
+*.tmp
+*.bak
+*.slddoc
+
+# Python and MATLAB junk
+__pycache__/
+*.pyc
+*.asv
+
+# Heavy FEA/CFD Simulation Results
+*.res
+*.rst
+*.odb
+*.log
+*.err
+/data/raw/large_datasets/
+
